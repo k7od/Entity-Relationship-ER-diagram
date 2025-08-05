@@ -1,5 +1,12 @@
 # Relational Mapping Schema:
 
+
+
+<img width="1358" height="532" alt="image" src="https://github.com/user-attachments/assets/cd137e6f-2184-4770-be63-7f4eeb1e92ec" />
+
+
+
+
 ## 1. Employee: 
 
     Employee(
